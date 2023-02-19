@@ -9,6 +9,8 @@
     "@devexpress/dx-react-scheduler-material-ui": "^4.0.3",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
+    "@headlessui/react": "^1.7.11",
+    "@heroicons/react": "^2.0.16",
     "@material-ui/core": "^4.12.4",
     "@mui/icons-material": "^5.11.0",
     "@mui/material": "^5.11.6",
@@ -20,8 +22,10 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.2",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1",
     "react-scripts": "5.0.1",
     "uuid": "^9.0.0",
+    "uuidv4": "^6.2.13",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
